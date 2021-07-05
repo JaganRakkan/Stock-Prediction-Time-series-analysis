@@ -8,4 +8,4 @@ ARIMA is a very popular statistical method for time series forecasting. ARIMA mo
             
            2. q (past forecast errors used to predict the future values), d (order of differencing)
 
-            3.Parameter tuning for ARIMA consumes a lot of time. So we will use auto ARIMA which automatically selects the best combination of (p,q,d) that provides the               least error.
+           3.Parameter tuning for ARIMA consumes a lot of time. So we will use auto ARIMA which automatically selects the best combination of (p,q,d) that provides the               least error.
